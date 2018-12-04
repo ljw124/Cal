@@ -1,0 +1,21 @@
+.content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAPCAYAAAD          +pA/bAAAA/UlEQVQ4ja2RPRKCMBCFk1CL4kkAj2RvpY0Frd5RGbgAYDyA6y4hP0C02i1gvtmXzctbeTxdQWDtd6noX29hy7B2nCEPQT/bxvRrVk3zFHRDNzUNA7KeuB77vevX4kN6HejlgoN58lLdYbxJSDwI6HQzOvWcznlybtk5/cHKOqubB37BxVCjE6qQAfxLjP4Pt4aVzexQlCKssijmnM95qV9xblhxZ9600R1otswjO9CsmYcMOMDtgCvzyA54M/dskpHn6gacmRN3g9+p4sycioaHer8DhsxpqY7LYAecmZMe03EvU+RcoiKhqZPTFeM/EdI5XTJlq6yenON5y18PNJVeMb+1ywAAAABJRU5ErkJggg==');
+  background-repeat: repeat;
+}
+
+.item {
+  width: 90%;
+  line-height: 100rpx;
+  margin-top: 3rpx;
+  margin-bottom: 3rpx;
+  border-radius: 3px;
+  padding-left: 3rpx;
+  color: #fef4e9;
+  border: solid 1px #da7c0c;
+  background: #f78d1d;
+}
